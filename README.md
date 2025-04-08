@@ -10,7 +10,7 @@
 
 - 📀 DB: **MongoDB, MySQL, Postgresql.**
 
-- ⌨️ Programming Language: **Java, C, C++, JS, TS, Python.**
+- ⌨️ Programming Languages: **Java, C, C++, JS, TS, Python.**
 
 - 📫 Contact me at: **specialmmr@gmail.com**
 
