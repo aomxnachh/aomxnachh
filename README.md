@@ -2,11 +2,11 @@
 
 - I am a student from the **Faculty of Science Department of Computer Science King Mongkut's Institute of Technology Ladkrabang.**
 
-- 💻 Backend: **Hono, Elysia, Express.**
-
 - 💁‍♂️ I’m currently: **Fullstack Developer.**
 
 - 🖥 Frontend: **Svelte, Tailwind.**
+
+- 💻 Backend: **Hono, Elysia, Express.**
 
 - 📀 DB: **MongoDB, MySQL, Postgresql.**
 
